@@ -3,6 +3,19 @@ body {
     background-color: bisque;
 }
 
+#container{
+  display:flex ;
+}
+
+
+
+
+
+
+
+
+
+
 
 footer {
     background-color: black;
